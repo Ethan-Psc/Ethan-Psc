@@ -1,7 +1,7 @@
-### Hi there 👋! I'm Ethan!
-# 🔭 I’m used to working on baidu!
-# 🌱 I’m currently learning nextjs,nest,umi!
-# 😄 I’ll be an excellent FE engineer!
+## Hi there 👋! I'm Ethan!
+### 🔭 I’m used to working on baidu!
+### 🌱 I’m currently learning nextjs,nest,umi!
+### 😄 I’ll be an excellent FE engineer!
 <!--
 **Ethan-Psc/Ethan-Psc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
